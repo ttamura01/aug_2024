@@ -8,3 +8,5 @@ Testing if this is functioning or not?
 Git is very confusing for me.
 
 date: 2024-08-13
+
+additional changes on 2024-08-13
